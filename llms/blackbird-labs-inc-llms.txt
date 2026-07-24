@@ -1,0 +1,26 @@
+# Blackbird Labs Inc
+
+> Blackbird Labs is the company behind Blackbird, a payments-and-loyalty app for restaurants. Diners earn status, perks, and the $FLY rewards token by checking in and paying at partner restaurants; the settlement layer, Flynet, is a layer-three protocol built on Coinbase's Base. Blackbird is a consumer application — it does not publish a public developer API, OpenAPI description, or developer portal.
+
+## About
+
+- [Blackbird home](https://www.blackbird.xyz/)
+- [About](https://www.blackbird.xyz/about)
+- [Where to Blackbird (partner restaurants)](https://www.blackbird.xyz/where-to-blackbird)
+- [Restaurant inquiry (become a partner)](https://www.blackbird.xyz/restaurant-inquiry)
+
+## Support
+
+- [FAQ](https://www.blackbird.xyz/faq)
+- [Partner help](https://www.blackbird.xyz/partnerhelp)
+- [Partner training](https://www.blackbird.xyz/partner-training)
+
+## Legal
+
+- [Terms of Service](https://www.blackbird.xyz/terms)
+- [Privacy Policy](https://www.blackbird.xyz/privacy)
+
+## Notes
+
+- No public API, OpenAPI/AsyncAPI specification, SDK, CLI, MCP server, or `/.well-known/` discovery surface was found as of 2026-07-18.
+- Company backed by investors including QED Investors and Andreessen Horowitz (a16z crypto).

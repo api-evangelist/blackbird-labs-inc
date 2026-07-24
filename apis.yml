@@ -1,8 +1,16 @@
 aid: blackbird-labs-inc
 name: Blackbird Labs Inc
-description: 'Blackbird Labs Inc is a company surfaced as a portfolio company of qed-investors and added
-  to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Blackbird Labs is the company behind Blackbird, a payments-and-loyalty
+  app for the restaurant industry. Diners earn status, perks, points, and the $FLY
+  rewards token by checking in and paying at partner restaurants, while restaurants
+  gain a direct guest relationship and improved economics. Settlement runs on Flynet,
+  a layer-three protocol built on Coinbase''s Base blockchain. Founded by Resy and
+  Eater co-founder Ben Leventhal, Blackbird is live across cities including New York,
+  San Francisco, Charleston, Denver, and New Orleans, and raised $50 million in 2025.
+  Backed by investors including QED Investors and Andreessen Horowitz (a16z crypto).
+  Blackbird is a consumer application and does not currently publish a public developer
+  API, OpenAPI description, or developer portal; this profile captures its public
+  company and security posture surface.'
 url: https://raw.githubusercontent.com/api-evangelist/blackbird-labs-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,32 @@ x-backed-by:
 - qed-investors
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.blackbird.xyz/opengraph-image.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Fintech
+- Payments
+- Loyalty
+- Rewards
+- Restaurants
+- Hospitality
+- Blockchain
+- Crypto
+- Consumer
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +52,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://blackbird.xyz
+  url: https://www.blackbird.xyz
+- type: About
+  url: https://www.blackbird.xyz/about
+- type: Support
+  url: https://www.blackbird.xyz/faq
+- type: HelpCenter
+  url: https://www.blackbird.xyz/partnerhelp
+- type: TermsOfService
+  url: https://www.blackbird.xyz/terms
+- type: PrivacyPolicy
+  url: https://www.blackbird.xyz/privacy
+- type: DomainSecurity
+  url: security/blackbird-labs-inc-domain-security.yml
+- type: LLMsTxt
+  url: llms/blackbird-labs-inc-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
